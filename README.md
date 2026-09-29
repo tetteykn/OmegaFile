@@ -130,7 +130,7 @@ Upon uninstallation, all application files and data are completely removed. The 
 
 | | |
 |---|---|
-| **Email** | phonetettey@gmail.com |
+| **Email** | zouaouidtech@gmail.com |
 | **Discord** | https://discord.com/invite/jRnaeTJ |
 | **GitHub** | https://github.com/tetteykn/OmegaFile |
 | **YouTube** | https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg |
@@ -140,6 +140,12 @@ Upon uninstallation, all application files and data are completely removed. The 
 ## Built by Zouaouid Tech
 
 OmegaFile is developed by Zouaouid Tech, an independent software studio focused on building high-performance Windows utilities. Every feature in OmegaFile exists because it solves a real problem that Windows leaves unsolved.
+
+---
+
+## License
+
+OmegaFile is licensed, not sold. A one-time purchase activates one device permanently, and the app works fully offline after activation. See [LICENSE.md](LICENSE.md) for the full terms.
 
 ---
 
