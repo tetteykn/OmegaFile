@@ -122,7 +122,7 @@ Upon uninstallation, all application files and data are completely removed. The 
 
 ---
 
-## Support & Contact
+## 📞 Support & Contact
 
 **Email** — zouaouidtech@gmail.com
 
