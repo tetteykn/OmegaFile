@@ -2,10 +2,6 @@
 
 **Copy faster. Delete anything. Take control.**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
-[![GitHub](https://img.shields.io/badge/GitHub-OmegaFile-181717?logo=github)](https://github.com/tetteykn/OmegaFile)
-
 ---
 
 ## The Problem Windows Doesn't Tell You About
@@ -128,12 +124,13 @@ Upon uninstallation, all application files and data are completely removed. The 
 
 ## Support & Contact
 
-| | |
-|---|---|
-| **Email** | zouaouidtech@gmail.com |
-| **Discord** | https://discord.com/invite/jRnaeTJ |
-| **GitHub** | https://github.com/tetteykn/OmegaFile |
-| **YouTube** | https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg |
+**Email** — zouaouidtech@gmail.com
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XPDP197B14DM02)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
 
 ---
 
