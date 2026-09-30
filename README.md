@@ -63,7 +63,7 @@ OmegaFile's **Force Delete** mode handles all of these cases. It takes ownership
 
 ---
 
-## Features at a Glance
+## Key Features
 
 ### Intelligent Adaptive Copying
 OmegaFile scans your selection in under a second, counts the files, measures the total size, and automatically picks the right strategy. No settings to configure, no modes to select — it just works.
@@ -122,15 +122,14 @@ Upon uninstallation, all application files and data are completely removed. The 
 
 ---
 
-## 📞 Support & Contact
+## 💳 Pricing & Trial
 
-**Email** — zouaouidtech@gmail.com
-
-[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XPDP197B14DM02)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
-
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
+- OmegaFile includes a **free trial** with full functionality.
+- After the trial period, a **one-time purchase** unlocks permanent access.
+- **No subscriptions. No recurring fees.**
+- **Online recognition**: If the device is connected to the internet and has a valid previous purchase, OmegaFile will automatically activate — no serial key entry required.
+- **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
+- Lifetime access on the activated device.
 
 ---
 
@@ -143,6 +142,18 @@ OmegaFile is developed by Zouaouid Tech, an independent software studio focused 
 ## License
 
 OmegaFile is licensed, not sold. A one-time purchase activates one device permanently, and the app works fully offline after activation. See [LICENSE.md](LICENSE.md) for the full terms.
+
+---
+
+## 📞 Support & Contact
+
+**Email** — zouaouidtech@gmail.com
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XPDP197B14DM02)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
 
 ---
 
